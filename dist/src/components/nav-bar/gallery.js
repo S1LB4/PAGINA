@@ -18,14 +18,14 @@ class gallery extends HTMLElement {
         this.shadowRoot.innerHTML =`
         <link rel="stylesheet" href="../../../../css/estilos.css">
     <section class="gallery" id="portafolio">
-            <h2 class="subtitulo">Gallery</h2>
+            <h2 class="subtitulo">RESTAURANTS NEAR YOU</h2>
             <div class="contenedor-galeria">
-                <img src="../img/out1.1.jpg" alt="" class="img-galeria">
-                <img src="../img/out.2.1.jpg" alt="" class="img-galeria">
-                <img src="../img/out4.1.jpg" alt="" class="img-galeria">
-                <img src="../img/out.6.1.jpg" alt="" class="img-galeria">
-                <img src="../img/out5.1.jpg" alt="" class="img-galeria">
-                <img src="../img/out3.1.jpg" alt="" class="img-galeria">
+                <img src="../img/santos.png" alt="" class="img-galeria">
+                <img src="../img/corral.png" alt="" class="img-galeria">
+                <img src="../img/Cheers.png" alt="" class="img-galeria">
+                <img src="../img/MW.jpg" alt="" class="img-galeria">
+                <img src="../img/cuuc.jpg" alt="" class="img-galeria">
+                <img src="../img/martins.jpg" alt="" class="img-galeria">
 
             </div>
         </section>
