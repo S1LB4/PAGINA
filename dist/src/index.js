@@ -15,6 +15,11 @@ class AppContainer extends HTMLElement{
         </app-navbar>
         <app-header>
         </app-header>
+        <app-galle>
+        </app-galle>
+
+        <app-galle1>
+        </app-galle1>
         `
     }
 }
